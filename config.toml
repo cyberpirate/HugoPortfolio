@@ -3,6 +3,15 @@ languageCode = "en-us"
 title = "Joe's Portfolio"
 theme = "beautifulhugo"
 
+[Params]
+  #subtitle = "My Projects"
+  logo = "img/avatar-icon.png"
+  #favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+
 [Author]
   name = "Joseph Iacoviello"
   #email = "joe.v.iacoviello@gmail.com"
