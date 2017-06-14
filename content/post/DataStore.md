@@ -1,6 +1,5 @@
 +++
-author = "Joseph Iacoviello"
-date = "2017-06-12T14:36:27-04:00"
+date = "2017-03-12T12:36:27-04:00"
 description = "DataStore is an api written in PHP using a MySQL database to store and index data for big data solutions"
 draft = false
 keywords = [ "API", "PHP", "MySQL", "REST", "Big Data Management", "DataStore" ]
@@ -21,7 +20,7 @@ DataStore is written using php for processing. MySQL is used to store and search
 ## Completed
 
  - Uploading Files
- - Searching Metadata
+ - Searching metadata
  - Downloading Files
 
 ## Future goals

@@ -1,5 +1,5 @@
 +++
-date = "2017-06-12T15:23:16-04:00"
+date = "2017-05-12T15:00:10-04:00"
 description = "A python script designed to run on the EdgeRouter X that creates and configures an outgoing whitelist firewall."
 draft = false
 tags = [ "Firewall", "Python", "Linux", "VyOS", "EdgeOS", "EdgeRouter", "sqlite3"]

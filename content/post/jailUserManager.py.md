@@ -1,5 +1,5 @@
 +++
-date = "2017-06-12T15:23:23-04:00"
+date = "2017-05-22T15:00:10-04:00"
 description = "A small python script to manage permissions on my FreeNAS home server"
 draft = false
 tags = [ "Python", "Linux Permissions", "FreeNAS", "Linux"]
@@ -12,7 +12,7 @@ topics = []
 Fix incorrect permissions on mounted files in FreeNAS and add relevant users/groups to any jails that need access to files.
 
 ## Implementation
-This python script scans the configured folders for incorrect permissions and fixes them. It also scans any jails for missing users/groups and adds them if neccessary.
+This python script scans the configured folders for incorrect permissions and fixes them. It also scans any jails for missing users/groups and adds them if necessary.
 
 ## Completed
  - Scans for incorrect permissions

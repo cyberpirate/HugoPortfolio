@@ -1,6 +1,5 @@
 +++
-author = "Joseph Iacoviello"
-date = "2017-06-12T15:03:41-04:00"
+date = "2017-03-12T12:36:27-04:00"
 description = "DataStoreLib.py is a python library used to access and store data on the DataStore API"
 draft = false
 keywords = [ "SDK", "Python", "REST", "Big Data Management" ]
@@ -32,7 +31,7 @@ DataStoreLib.py simplifies the DataStore API into two python functions
 ## Completed
 
  - Uploading Files
- - Searching Metadata
+ - Searching metadata
 
 ## Future goals
 

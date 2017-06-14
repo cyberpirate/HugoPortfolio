@@ -1,5 +1,5 @@
 +++
-date = "2017-06-12T15:23:41-04:00"
+date = "2014-02-15T12:00:00-04:00"
 description = "Android SDK for iSpeech's API"
 draft = false
 tags = ["SDK", "Android", "Java", "iSpeech", "Speech Technology", "Voice Recognition", "Text to Speech"]

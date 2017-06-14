@@ -1,5 +1,5 @@
 +++
-date = "2017-06-12T15:24:41-04:00"
+date = "2015-04-21T12:00:00-04:00"
 description = "Javascript SDK for Speech Recognition"
 draft = false
 tags = [ "SDK", "Javascript", "iSpeech", "Voice Recognition" ]

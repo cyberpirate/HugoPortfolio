@@ -1,4 +1,4 @@
-baseurl = "https://cyberpirate.github.io/"
+baseurl = "http://www.joei.tech/"
 languageCode = "en-us"
 title = "Joe's Portfolio"
 theme = "beautifulhugo"

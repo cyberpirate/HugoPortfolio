@@ -25,13 +25,11 @@ I'm Joe, a software developer with experience in Android, Chrome Extensions, Pyt
 #### Personal Experience
  - Programming: C++, Java, C#, PHP, Python, MySQL, JavaScript, HTML, Android Apps.
  - Assembled several desktop computers and servers.
- - Set up a NAS device using FreeNAS. Set up multiple services including media streaming with Plex and
- - backups with Resilio (was BTSync).
+ - Set up a NAS device using FreeNAS. Set up multiple services including media streaming with Plex and backups with Resilio (was BTSync).
  - Built a common data storage API using php and MySQL.
  - Gained leadership and project management experience learned from becoming an Eagle Scout in 2011.
  - Computer and smart phone repairs.
-  - Cracked screens, memory expansions, hard drive repairs and replacements, printer setup, virus
- - removal, automatic backup.
+  - Cracked screens, memory expansions, hard drive repairs and replacements, printer setup, virus removal, automatic backup.
  - Computer assembly, software updates, and operating system setup.
   - Windows, Linux and Mac operating systems, several Debian distributions with dual boot.
 
