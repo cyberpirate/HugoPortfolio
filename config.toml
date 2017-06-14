@@ -2,6 +2,7 @@ baseurl = "https://cyberpirate.github.io/"
 languageCode = "en-us"
 title = "Joe's Portfolio"
 theme = "beautifulhugo"
+googleAnalytics = "UA-101008847-1"
 
 [Params]
   #subtitle = "My Projects"
