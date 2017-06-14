@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://cyberpirate.github.io/post/datastore/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/tags/api/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/tags/big-data-management/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/tags/mysql/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/tags/php/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/post/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/tags/rest/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cyberpirate.github.io/tags/</loc>
+    <lastmod>2017-06-12T14:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

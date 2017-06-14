@@ -1,0 +1,33 @@
+baseurl = "https://cyberpirate.github.io/"
+languageCode = "en-us"
+title = "Joe's Portfolio"
+theme = "beautifulhugo"
+
+[Author]
+  name = "Joseph Iacoviello"
+  #email = "joe.v.iacoviello@gmail.com"
+  #facebook = "username"
+  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "cyberpirate"
+  #twitter = "username"
+  #reddit = "username"
+  linkedin = "joseph-iacoviello-7866a46b"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

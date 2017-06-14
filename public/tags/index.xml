@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Portfolio</title>
+    <link>http://cyberpirate.github.io/tags/</link>
+    <description>Recent content in Tags on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 14:36:27 -0400</lastBuildDate>
+    
+	<atom:link href="http://cyberpirate.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Api</title>
+      <link>http://cyberpirate.github.io/tags/api/</link>
+      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      
+      <guid>http://cyberpirate.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Management</title>
+      <link>http://cyberpirate.github.io/tags/big-data-management/</link>
+      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      
+      <guid>http://cyberpirate.github.io/tags/big-data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>http://cyberpirate.github.io/tags/mysql/</link>
+      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      
+      <guid>http://cyberpirate.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>http://cyberpirate.github.io/tags/php/</link>
+      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      
+      <guid>http://cyberpirate.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>http://cyberpirate.github.io/tags/rest/</link>
+      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      
+      <guid>http://cyberpirate.github.io/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
