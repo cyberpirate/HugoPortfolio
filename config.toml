@@ -15,7 +15,7 @@ googleAnalytics = "UA-101008847-1"
 
 [Author]
   name = "Joseph Iacoviello"
-  #email = "joe.v.iacoviello@gmail.com"
+  email = "joe.v.iacoviello@gmail.com"
   #facebook = "username"
   #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "cyberpirate"
