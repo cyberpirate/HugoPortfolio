@@ -2,7 +2,7 @@
 date = "2014-02-15T12:00:00-04:00"
 description = "Android SDK for iSpeech's API"
 draft = false
-tags = ["SDK", "Android", "Java", "iSpeech", "Speech Technology", "Voice Recognition", "Text to Speech"]
+tags = ["SDK", "Android", "Java", "iSpeech", "Speech Technology", "Voice Recognition", "Text to Speech", "Open Source"]
 title = "iSpeech-Android-SDK"
 topics = ["iSpeech-Android-SDK"]
 
