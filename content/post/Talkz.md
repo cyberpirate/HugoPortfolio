@@ -8,6 +8,14 @@ topics = ["DriveSafe.ly"]
 
 +++
 
+## Screenshots
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/img/app/talkz/1.jpg">}}
+  {{< figure thumb="-thumb" link="/img/app/talkz/2.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/app/talkz/3.jpg" >}}
+{{< /gallery >}}
+
 ## Goal
 The goal of this project was to create an entertaining app where users can edit their voice to sound like a celebrity.
 

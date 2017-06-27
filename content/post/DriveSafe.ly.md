@@ -8,6 +8,13 @@ topics = ["DriveSafe.ly"]
 
 +++
 
+## Screenshots
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/img/app/dsly/1.png" alt="Main screen to enable or disable the app" >}}
+  {{< figure thumb="-thumb" link="/img/app/dsly/2.png" alt="Popup when getting a Text Message" >}}
+{{< /gallery >}}
+
 ## Goal
 The goal of this project was to help prevent people from driving dangerously by reading text messages to them and allowing them to respond with their voice.
 

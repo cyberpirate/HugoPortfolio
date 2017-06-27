@@ -8,6 +8,13 @@ topics = ["iSpeech Text To Speech"]
 
 +++
 
+## Screenshots
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/img/app/tts/1.png" alt="Main screen with possible voices to choose from" >}}
+  {{< figure thumb="-thumb" link="/img/app/tts/2.png" alt="Screen for saved files" >}}
+{{< /gallery >}}
+
 ## Goal
 The goal of this project was to create an android app that could be used to easily demo the quality of iSpeech's api, aiding sales.
 
